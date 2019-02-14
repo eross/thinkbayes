@@ -1,2 +1,2 @@
 # thinkbayes
-Homework form Think Bayes book.
+Homework from Think Bayes book.
